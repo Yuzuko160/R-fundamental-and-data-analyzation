@@ -1,4 +1,4 @@
-#R-fundamental-and-data-analyzation
+# R-fundamental-and-data-analyzation
 
 ## Practice 1 — Student Score Data Analysis (Practice)
 
