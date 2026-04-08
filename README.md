@@ -1,6 +1,6 @@
 # R-fundamental-and-data-analyzation
 
-## Practice 1 — Student Score Data Analysis (Practice)
+## Practice 1 — Student Score Data Analysis
 
 This R practice demonstrates basic data analysis using an Excel dataset of student scores. The code:
 
